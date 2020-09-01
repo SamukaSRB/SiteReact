@@ -1,0 +1,18 @@
+  .conteudo{
+    opacity: 0.8;
+    background-color:rebeccapurple;   
+  }
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  
+}
+p{
+  font-size: 20px;
+  color:rgb(131, 131, 131);
+  font-family: fantasy;
+  padding: 15px;
+  text-align: center;
+}
+

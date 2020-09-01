@@ -1,0 +1,8 @@
+.image{
+  background-image: url("../img/fundo.png");
+}
+
+.jumbotron{
+  margin:auto;
+  background-color: darkorange;
+  }

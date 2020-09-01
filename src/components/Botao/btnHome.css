@@ -1,0 +1,14 @@
+.btn-comprar{
+border: none;
+outline: 0;
+padding: 12px;
+color: white;
+background-color:#f44336;;
+text-align: center;
+cursor: pointer;
+width: 50%;
+font-size: 18px;
+border-radius: 12px;
+padding: 12px;
+
+}
