@@ -1,9 +1,24 @@
-.social{
+.app-footer{
   width: 100%;
-    float: right;   
-    align-items: left;
-    background-color: #FF4500; 
-     
+  background-color: rgb(212, 39, 39);      
+  align-items: center;
+}
+.social{
+  width: 10%;
+   float:right; 
+    background-color: #fff;      
   
+}
+.facebook{
+  font-size:2em;
+  color: blue;  
+}
+.whatsapp{
+  font-size:2em; 
+  color:green;
+}
+.instagram{
+  font-size:2em;
+  color:#c8a2c8;
 }
 

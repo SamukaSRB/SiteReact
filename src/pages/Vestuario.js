@@ -29,6 +29,7 @@ const Vestuario = () => (
 
     <div className="col-sm-4">
     <div className="card" >
+    <img src={oferta1} className="img-responsive"/>
     <img src={logo3} className="img-responsive"/>   
     <p className="price">R$30.99</p>  
     <p>Conjunto executivo power plus.</p>
