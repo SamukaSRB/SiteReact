@@ -5,24 +5,14 @@ import { FaFacebookSquare} from "react-icons/fa";
 import {FaWhatsappSquare} from "react-icons/fa";
 import {FaInstagramSquare} from "react-icons/fa";
 class Footer extends Component {
-
-      render (){
+render (){
    return (
- 
-<footer className="app-footer">
-   <div className="social">  
-     
+   <footer className="social">       
       <FaFacebookSquare className="facebook" />
       <FaWhatsappSquare className="whatsapp" />
-      <FaInstagramSquare className="instagram"  />      
-   </div> 
- 
-    
-    </footer>
-  
-
-
-  
+      <FaInstagramSquare className="instagram"  /> 
+         
+   </footer>   
 )
    }
 }

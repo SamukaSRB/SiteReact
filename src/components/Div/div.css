@@ -1,18 +1,29 @@
   .conteudo{
+    margin: auto;
+    height:500px;
+    width: 100%;  
     opacity: 0.8;
-    background-color:rebeccapurple;   
+    background-color:	#7B68EE;     
   }
-h1{
+.titulo01{
+  margin: auto;
+  text-align: center;  
+  text-transform: uppercase;
+  color: white;  
+}
+.titulo02{
+  margin: auto;
   text-align: center;
+  font-size: 20px;
   text-transform: uppercase;
   color: white;
   
 }
 p{
   font-size: 20px;
-  color:rgb(131, 131, 131);
+  color: #A9A9A9;
   font-family: fantasy;
-  padding: 15px;
+  padding: 10px;
   text-align: center;
 }
 

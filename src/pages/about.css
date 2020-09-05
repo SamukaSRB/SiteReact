@@ -1,0 +1,22 @@
+.conteudosobre{
+    margin: auto;
+    height:700px;
+    width: 100%;  
+    opacity: 0.8;
+    background-color:	#7B68EE;     
+  }
+
+.titulo04{
+    margin: auto;
+    font:50px;
+    text-align: center;  
+    text-transform: uppercase;
+    color: white;  
+  }
+  p{
+    font-size: 20px;
+    color: #A9A9A9;
+    font-family: fantasy;
+    padding: 10px;
+    text-align: center;
+  }

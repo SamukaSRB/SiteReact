@@ -1,0 +1,20 @@
+.conteudo{
+    margin: auto;
+    height:200px;
+    width: 50%;  
+    opacity: 0.8;
+    background-color:	#7B68EE;     
+  }
+.titulocontact{
+    margin: auto;
+    text-align: center;  
+    text-transform: uppercase;
+    color: white;  
+  }
+  form div + div {
+    margin-top: 1em;
+}
+#msg{
+align-items: center;
+}
+

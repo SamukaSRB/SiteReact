@@ -15,7 +15,7 @@ class Router extends  Component{
          <Switch>
          <Route component={Administrador} path = "/administrador"/>
          <Route exact component={Home} path="/home"/>              
-         <Route  component={Contact} path="/contato"/>       
+         <Route  component={Contact} path="/contact"/>       
          <Route  component={About} path="/about"/>  
          <Route component={Checkout} path = "/checkout"/>
          <Route component={Vestuario} path = "/vestuario"/>
