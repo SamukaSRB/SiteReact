@@ -1,17 +1,18 @@
-  .conteudo{
-    margin: auto;
-    height:500px;
-    width: 100%;  
+  .content{
+ 
+    margin:auto;
+    height:100%;     
     opacity: 0.8;
-    background-color:	#7B68EE;     
+    background-color:	#6875eea1;     
   }
 .titulo01{
   margin: auto;
-  text-align: center;  
+  text-align: center; 
   text-transform: uppercase;
   color: white;  
 }
 .titulo02{
+
   margin: auto;
   text-align: center;
   font-size: 20px;

@@ -4,7 +4,7 @@ import './div.css';
 
 export default function SimpleContainer() {
   return (
-    <div className="conteudo">
+    <div className="content">
     <h1 className="titulo01">Precisa de um site?</h1>
     <p>Atuamos com desenvolvimento de web sites para o seu negócio</p>
     <h1 className="titulo02">Transformação digital</h1>
